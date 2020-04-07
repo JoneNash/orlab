@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b943f0-ff5d-4a48-b679-2685d999f790" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/or_tools/3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/or_tools/3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/or_tools/3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/or_tools/3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/or_tools/3_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/or_tools/3_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/or_tools/3_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/or_tools/4_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,26 +30,26 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="6" />
+          <entry key="py" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="33" />
-          <entry key="py" value="8" />
+          <entry key="py" value="291" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="33" />
-          <entry key="Python" value="8" />
+          <entry key="Python" value="291" />
         </counts>
       </usages-collector>
     </session>
@@ -52,12 +57,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/or_tools/3_1.py">
+        <entry file="file://$PROJECT_DIR$/or_tools/4_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state relative-caret-position="228">
+              <caret line="17" column="74" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="74" />
               <folding>
-                <element signature="e#121#159#0" expanded="true" />
+                <element signature="e#122#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/ortools/linear_solver/pywraplp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="99" column="68" selection-start-line="99" selection-start-column="39" selection-end-line="99" selection-end-column="68" />
+              <folding>
+                <element signature="e#4575#4731#0" expanded="true" />
+                <element signature="e#6967#7064#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,6 +90,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DiagramPrinter</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -82,6 +105,13 @@
         <option value="$PROJECT_DIR$/or_tools/2_1.py" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/or_tools/3_1.py" />
+        <option value="$PROJECT_DIR$/or_tools/3_2.py" />
+        <option value="$PROJECT_DIR$/or_tools/3_4.py" />
+        <option value="$PROJECT_DIR$/or_tools/3_5.py" />
+        <option value="$PROJECT_DIR$/or_tools/3_6.py" />
+        <option value="$PROJECT_DIR$/or_tools/3_7.py" />
+        <option value="$PROJECT_DIR$/or_tools/3_3.py" />
+        <option value="$PROJECT_DIR$/or_tools/4_1.py" />
       </list>
     </option>
   </component>
@@ -162,8 +192,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3_1">
-    <configuration name="2_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4_1">
+    <configuration name="3_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="orlab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,7 +205,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/or_tools/2_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/or_tools/3_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="orlab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +226,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/or_tools/3_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/or_tools/3_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="orlab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/or_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/or_tools/3_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="orlab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/or_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/or_tools/3_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="orlab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/or_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/or_tools/4_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,13 +299,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2_1" />
-      <item itemvalue="Python.3_1" />
+      <item itemvalue="Python.3_5" />
+      <item itemvalue="Python.3_6" />
+      <item itemvalue="Python.3_7" />
+      <item itemvalue="Python.3_3" />
+      <item itemvalue="Python.4_1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_1" />
-        <item itemvalue="Python.2_1" />
+        <item itemvalue="Python.4_1" />
+        <item itemvalue="Python.3_7" />
+        <item itemvalue="Python.3_3" />
+        <item itemvalue="Python.3_6" />
+        <item itemvalue="Python.3_5" />
       </list>
     </recent_temporary>
   </component>
@@ -242,12 +341,12 @@
     <frame x="0" y="23" width="1680" height="911" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13140446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23199023" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24542125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -291,13 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/ortools/linear_solver/pywraplp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="162" column="29" selection-start-line="162" selection-start-column="29" selection-end-line="162" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -321,10 +413,134 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/or_tools/3_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
+        <state relative-caret-position="291">
           <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding>
             <element signature="e#121#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/or_tools/3_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+          <folding>
+            <element signature="e#121#159#0" expanded="true" />
+            <element signature="e#423#542#0" expanded="true" />
+            <element signature="e#588#722#0" expanded="true" />
+            <element signature="e#762#790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/or_tools/3_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="62" column="31" lean-forward="true" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+          <folding>
+            <element signature="e#122#304#1" expanded="true" />
+            <element signature="e#537#656#0" expanded="true" />
+            <element signature="e#702#836#0" expanded="true" />
+            <element signature="e#876#904#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/or_tools/3_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="104" column="32" lean-forward="true" selection-start-line="104" selection-start-column="32" selection-end-line="104" selection-end-column="32" />
+          <folding>
+            <element signature="e#129#166#0" expanded="true" />
+            <element signature="e#244#1567#0" expanded="true" />
+            <element signature="e#273#297#0" expanded="true" />
+            <element signature="e#370#456#0" expanded="true" />
+            <element signature="e#527#553#0" expanded="true" />
+            <element signature="e#598#694#0" expanded="true" />
+            <element signature="e#1006#1048#0" expanded="true" />
+            <element signature="e#1630#2038#0" />
+            <element signature="e#1704#1815#0" expanded="true" />
+            <element signature="e#1853#1977#0" expanded="true" />
+            <element signature="e#2010#2038#0" expanded="true" />
+            <element signature="e#2135#2246#0" expanded="true" />
+            <element signature="e#2363#2763#0" expanded="true" />
+            <element signature="e#2693#2721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/ortools/sat/python/cp_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="1608" column="66" lean-forward="true" selection-start-line="1608" selection-start-column="66" selection-end-line="1608" selection-end-column="66" />
+          <folding>
+            <element signature="e#27667#28111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/or_tools/3_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#121#158#0" expanded="true" />
+            <element signature="e#232#649#0" expanded="true" />
+            <element signature="e#689#856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/ortools/sat/pywrapsat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+          <folding>
+            <element signature="e#3720#3771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/or_tools/3_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#121#153#0" expanded="true" />
+            <element signature="e#1010#1667#0" />
+            <element signature="e#1097#1254#0" expanded="true" />
+            <element signature="e#1300#1599#0" expanded="true" />
+            <element signature="e#1639#1667#0" expanded="true" />
+            <element signature="e#1601#2302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/or_tools/3_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/ortools/linear_solver/pywraplp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="99" column="68" selection-start-line="99" selection-start-column="39" selection-end-line="99" selection-end-column="68" />
+          <folding>
+            <element signature="e#4575#4731#0" expanded="true" />
+            <element signature="e#6967#7064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/or_tools/4_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" column="74" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="74" />
+          <folding>
+            <element signature="e#122#159#0" expanded="true" />
           </folding>
         </state>
       </provider>
