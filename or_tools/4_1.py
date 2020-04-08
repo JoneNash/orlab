@@ -14,13 +14,25 @@ from ortools.linear_solver import pywraplp
 
 def main():
     # Create the mip solver with the CBC backend.
+    #整数限制
     solver = pywraplp.Solver('simple_mip_program',
                              pywraplp.Solver.CBC_MIXED_INTEGER_PROGRAMMING)
 
+    #无整数限制
+    # solver = pywraplp.Solver('simple_mip_program',
+    #                          pywraplp.Solver.GLOP_LINEAR_PROGRAMMING)
+
     infinity = solver.infinity()
     # x and y are integer non-negative variables.
+    # 整数限制
     x = solver.IntVar(0.0, infinity, 'x')
     y = solver.IntVar(0.0, infinity, 'y')
+
+    # 无整数限制
+    # x = solver.NumVar(0.0, infinity, 'x')
+    # y = solver.NumVar(0.0, infinity, 'y')
+
+
 
     print('Number of variables =', solver.NumVariables())
 
