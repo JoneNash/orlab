@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b943f0-ff5d-4a48-b679-2685d999f790" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/or_tools/4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/or_tools/5_1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/or_tools/5_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/or_tools/5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_sm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/or_tools/4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/or_tools/4_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +17,7 @@
     <session id="320500341">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="4" />
@@ -28,39 +27,40 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="34" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="34" />
+          <entry key="Python" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="33" />
-          <entry key="py" value="387" />
+          <entry key="py" value="400" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="33" />
-          <entry key="Python" value="387" />
+          <entry key="Python" value="400" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/or_tools/5_1_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="84" column="25" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="25" />
+            <state relative-caret-position="159">
+              <caret line="81" column="38" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="38" />
               <folding>
                 <element signature="e#179#234#0" expanded="true" />
+                <element signature="e#314#1525#0" expanded="true" />
                 <element signature="e#2647#2931#0" expanded="true" />
               </folding>
             </state>
@@ -70,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/or_tools/5_1_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="138" column="24" selection-start-line="138" selection-start-column="24" selection-end-line="138" selection-end-column="24" />
+            <state relative-caret-position="314">
+              <caret line="128" column="44" selection-start-line="128" selection-start-column="37" selection-end-line="128" selection-end-column="60" />
               <folding>
                 <element signature="e#183#194#0" expanded="true" />
                 <element signature="e#367#4022#0" expanded="true" />
@@ -85,13 +85,63 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/or_tools/5_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="96" column="50" selection-start-line="96" selection-start-column="50" selection-end-line="96" selection-end-column="50" />
+              <folding>
+                <element signature="e#160#215#0" expanded="true" />
+                <element signature="e#332#2684#0" expanded="true" />
+                <element signature="e#425#542#0" expanded="true" />
+                <element signature="e#552#672#0" expanded="true" />
+                <element signature="e#682#803#0" expanded="true" />
+                <element signature="e#813#933#0" expanded="true" />
+                <element signature="e#943#1063#0" expanded="true" />
+                <element signature="e#1073#1191#0" expanded="true" />
+                <element signature="e#1201#1320#0" expanded="true" />
+                <element signature="e#1330#1447#0" expanded="true" />
+                <element signature="e#1457#1575#0" expanded="true" />
+                <element signature="e#1585#1702#0" expanded="true" />
+                <element signature="e#1712#1833#0" expanded="true" />
+                <element signature="e#1843#1962#0" expanded="true" />
+                <element signature="e#1972#2090#0" expanded="true" />
+                <element signature="e#2100#2218#0" expanded="true" />
+                <element signature="e#2228#2348#0" expanded="true" />
+                <element signature="e#2358#2480#0" expanded="true" />
+                <element signature="e#2490#2610#0" expanded="true" />
+                <element signature="e#3644#5379#0" expanded="true" />
+                <element signature="e#4114#4398#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/test_sm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#41#120#1" expanded="true" />
+                <element signature="e#163#214#0" expanded="true" />
+                <element signature="e#617#1282#0" expanded="true" />
+                <element signature="e#1331#1745#0" expanded="true" />
+                <element signature="e#1790#2240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/ortools/constraint_solver/pywrapcp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="3595" column="8" selection-start-line="3595" selection-start-column="8" selection-end-line="3595" selection-end-column="8" />
+            <state relative-caret-position="181">
+              <caret line="3606" column="8" selection-start-line="3606" selection-start-column="8" selection-end-line="3606" selection-end-column="8" />
               <folding>
                 <element signature="e#185142#185228#0" expanded="true" />
                 <element signature="e#188150#188222#0" expanded="true" />
+                <element signature="e#188878#188947#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,13 +195,16 @@
         <option value="$PROJECT_DIR$/or_tools/4_2.py" />
         <option value="$PROJECT_DIR$/or_tools/5_1_1.py" />
         <option value="$PROJECT_DIR$/or_tools/5_1_2.py" />
+        <option value="$PROJECT_DIR$/or_tools/5_2.py" />
+        <option value="$PROJECT_DIR$/test/test_sm.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="202" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="911" />
+    <option name="height" value="975" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -186,7 +239,7 @@
             <path>
               <item name="orlab" type="b2602c69:ProjectViewProjectNode" />
               <item name="orlab" type="462c0819:PsiDirectoryNode" />
-              <item name="or_tools" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,49 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5_1_2">
-    <configuration name="3_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="orlab" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/or_tools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/or_tools/3_7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="orlab" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/or_tools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/or_tools/4_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Nosetests in test_sm.py">
     <configuration name="4_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="orlab" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,20 +342,56 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="orlab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/or_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/or_tools/5_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests in test_sm.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="orlab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_sm.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.3_7" />
-      <item itemvalue="Python.4_1" />
       <item itemvalue="Python.4_2" />
       <item itemvalue="Python.5_1_1" />
       <item itemvalue="Python.5_1_2" />
+      <item itemvalue="Python.5_2" />
+      <item itemvalue="Python tests.Nosetests in test_sm.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Nosetests in test_sm.py" />
+        <item itemvalue="Python.5_2" />
         <item itemvalue="Python.5_1_2" />
         <item itemvalue="Python.5_1_1" />
         <item itemvalue="Python.4_2" />
-        <item itemvalue="Python.4_1" />
-        <item itemvalue="Python.3_7" />
       </list>
     </recent_temporary>
   </component>
@@ -361,6 +408,11 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_test_sm_py - 2020.04.30 at 20h 01m 45s.xml">
+      <configuration name="Nosetests in test_sm.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -371,7 +423,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="911" extended-state="0" />
+    <frame x="202" y="23" width="1680" height="975" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13140446" />
@@ -379,7 +431,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24542125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34314835" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -550,17 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/ortools/constraint_solver/pywrapcp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="3595" column="8" selection-start-line="3595" selection-start-column="8" selection-end-line="3595" selection-end-column="8" />
-          <folding>
-            <element signature="e#185142#185228#0" expanded="true" />
-            <element signature="e#188150#188222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-7912485/math.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -568,10 +609,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/or_tools/5_1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="81" column="38" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="38" />
+          <folding>
+            <element signature="e#179#234#0" expanded="true" />
+            <element signature="e#314#1525#0" expanded="true" />
+            <element signature="e#2647#2931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/or_tools/5_1_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="138" column="24" selection-start-line="138" selection-start-column="24" selection-end-line="138" selection-end-column="24" />
+        <state relative-caret-position="314">
+          <caret line="128" column="44" selection-start-line="128" selection-start-column="37" selection-end-line="128" selection-end-column="60" />
           <folding>
             <element signature="e#183#194#0" expanded="true" />
             <element signature="e#367#4022#0" expanded="true" />
@@ -583,13 +636,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/or_tools/5_1_1.py">
+    <entry file="file://$PROJECT_DIR$/or_tools/5_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="84" column="25" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="25" />
+        <state relative-caret-position="187">
+          <caret line="96" column="50" selection-start-line="96" selection-start-column="50" selection-end-line="96" selection-end-column="50" />
           <folding>
-            <element signature="e#179#234#0" expanded="true" />
-            <element signature="e#2647#2931#0" expanded="true" />
+            <element signature="e#160#215#0" expanded="true" />
+            <element signature="e#332#2684#0" expanded="true" />
+            <element signature="e#425#542#0" expanded="true" />
+            <element signature="e#552#672#0" expanded="true" />
+            <element signature="e#682#803#0" expanded="true" />
+            <element signature="e#813#933#0" expanded="true" />
+            <element signature="e#943#1063#0" expanded="true" />
+            <element signature="e#1073#1191#0" expanded="true" />
+            <element signature="e#1201#1320#0" expanded="true" />
+            <element signature="e#1330#1447#0" expanded="true" />
+            <element signature="e#1457#1575#0" expanded="true" />
+            <element signature="e#1585#1702#0" expanded="true" />
+            <element signature="e#1712#1833#0" expanded="true" />
+            <element signature="e#1843#1962#0" expanded="true" />
+            <element signature="e#1972#2090#0" expanded="true" />
+            <element signature="e#2100#2218#0" expanded="true" />
+            <element signature="e#2228#2348#0" expanded="true" />
+            <element signature="e#2358#2480#0" expanded="true" />
+            <element signature="e#2490#2610#0" expanded="true" />
+            <element signature="e#3644#5379#0" expanded="true" />
+            <element signature="e#4114#4398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_nosetest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/ortools/constraint_solver/pywrapcp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="3606" column="8" selection-start-line="3606" selection-start-column="8" selection-end-line="3606" selection-end-column="8" />
+          <folding>
+            <element signature="e#185142#185228#0" expanded="true" />
+            <element signature="e#188150#188222#0" expanded="true" />
+            <element signature="e#188878#188947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_sm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#41#120#1" expanded="true" />
+            <element signature="e#163#214#0" expanded="true" />
+            <element signature="e#617#1282#0" expanded="true" />
+            <element signature="e#1331#1745#0" expanded="true" />
+            <element signature="e#1790#2240#0" expanded="true" />
           </folding>
         </state>
       </provider>
